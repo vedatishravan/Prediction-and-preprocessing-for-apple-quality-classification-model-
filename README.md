@@ -1,0 +1,1 @@
+# Prediction-and-preprocessing-for-apple-quality-classification-model-
